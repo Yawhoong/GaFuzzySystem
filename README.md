@@ -1,6 +1,5 @@
 # GaFuzzySystem
-GA Fuzzy System for Trading Crude Palm Oil Futures
+Crude Palm Oil Futures trading algorithm using fuzzy logic and genetic algorithm
 
 ## Prerequisits:
-
 pip install deap
